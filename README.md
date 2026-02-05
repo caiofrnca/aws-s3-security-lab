@@ -10,7 +10,7 @@ The goal of this lab is to demonstrate secure-by-default Amazon S3 design, focus
 
 --
 
-## Repository Structure
+### Repository Structure
 
 ```text
 aws-s3-security-lab/
