@@ -1,0 +1,2 @@
+AWS_REGION=eu-west-1
+BUCKET=s3-caiolab-sec1
